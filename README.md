@@ -12,7 +12,7 @@
   </a>
 </div>
 <h1>
-  hey there
+  Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -24,7 +24,7 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer Intern at Microsoft.
+- :telescope: I’m working as a Software Engineering Intern at Microsoft.
 
 - :seedling: Exploring Technical Content Writing.
 
